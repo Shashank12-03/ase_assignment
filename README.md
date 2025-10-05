@@ -180,3 +180,8 @@ Base URL: `/api/quiz`
 - Full marks only if all correct options are selected.  
 - Otherwise, `0` marks for that question.  
 - Quiz’s `attempted` count is automatically incremented.  
+
+
+
+---
+As I was unable to record a video, I have also added some considerations and design principles I followed, see [README_DESIGN.md](README_DESIGN.md).
